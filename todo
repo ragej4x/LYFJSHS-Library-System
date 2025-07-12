@@ -1,0 +1,23 @@
+v1.0
+
+-UI/UX
+-LYFJSHS hero
+-add dynamic paralax scroll
+-head 
+-body static content temporary
+-footer 
+-links
+
+
+
+-BACKEND SERVER 
+-REQ - flask - requests
+-Use pythonanywhere server deployment
+-Type - REST API
+-deploy database
+-test database data handling input / output
+-adding data using admin
+-add seach query
+
+
+
